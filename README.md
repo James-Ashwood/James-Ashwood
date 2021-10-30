@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-Ashwood
-- 👀 I’m interested in Python, Games and AI
-- 🌱 I’m currently studying in High School
-- 💞️ I’m looking to collaborate on any Arcade project. If you like what I am doing an want to help, DM on discord
+- 👀 I’m interested in Python, AI, Web Development and C#/.Net
+- 🌱 I’m currently studying in high school.
+- ⛏ I'm currently working on [Photo Organiser Pro](https://github.com/James-Ashwood/Photo-Organiser-Pro)
 - 📫 Give me a message on discord @Linux4Life#3145
 
 <!---
