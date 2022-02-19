@@ -1,7 +1,7 @@
 👋 Hi, I’m @James-Ashwood
 
 - 👀 I’m interested in Python, AI, Web Development and C#/.Net
-- 🌱 I’m currently studying in high school.
+- 🌱 I’m currently studying for my [GCSEs](https://www.bbc.co.uk/bitesize/levels/z98jmp3).
 - ⛏ I'm currently working on [Photo Organiser Pro](https://github.com/James-Ashwood/Photo-Organiser-Pro)
 - 📫 Drop me an email with jamesashwooddevelopment@gmail.com
 
